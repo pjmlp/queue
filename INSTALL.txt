@@ -9,6 +9,3 @@ On Windows you need to use nmake instead of make, in case you
 are using Microsoft's tooling.
 
 Afterwards you will have the queue executable ready to be used.
-
---
- Paulo Pinto
