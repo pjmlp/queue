@@ -117,3 +117,7 @@ When memory cells get relesed due to a  _dequeue_byte()_ or _destroy_queue()_ in
 # Conclusion
 
 This is certanly not the best solution, but it shows how the exercise could eventually be solved. Although this type of exercise might seem useless in the time that GC has become mainstream, when there is the need to code close to the machine, such tricks are always required.
+
+# Downloads
+
+The code, alongside with the corresponding CMake definition file and this article, is available for [download](/compilers/tutorials/queue/queue.zip).
